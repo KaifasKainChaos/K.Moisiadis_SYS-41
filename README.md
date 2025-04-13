@@ -27,7 +27,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 - [ ] 
-
+![1.png]([1.png](https://github.com/KaifasKainChaos/K.Moisiadis_SYS-41/blob/c6ecbbb99c7e53a6f89e54da75f7e28d09c31506/1.png))
  ---
 
 ### Задание 2
