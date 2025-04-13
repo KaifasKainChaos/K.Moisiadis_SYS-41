@@ -27,7 +27,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 - [ ] 
-![1.png]([1.png](https://github.com/KaifasKainChaos/K.Moisiadis_SYS-41/blob/c6ecbbb99c7e53a6f89e54da75f7e28d09c31506/1.png))
+![1.png](https://github.com/KaifasKainChaos/K.Moisiadis_SYS-41/blob/c6ecbbb99c7e53a6f89e54da75f7e28d09c31506/1.png)
  ---
 
 ### Задание 2
@@ -57,7 +57,10 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+![2](https://github.com/KaifasKainChaos/K.Moisiadis_SYS-41/blob/4bdac4470fcda69f02ef374f2027a57c5cc7467f/2-3(1).png)
 
+
+![3](https://github.com/KaifasKainChaos/K.Moisiadis_SYS-41/blob/4bdac4470fcda69f02ef374f2027a57c5cc7467f/2-3(2).png)
  ---
 
 ### Задание 4
@@ -70,5 +73,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+
+![4](https://github.com/KaifasKainChaos/K.Moisiadis_SYS-41/blob/4bdac4470fcda69f02ef374f2027a57c5cc7467f/4.png)
 
 
